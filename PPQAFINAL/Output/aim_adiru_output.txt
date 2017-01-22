@@ -1,0 +1,130 @@
+[MTS_OPSW_P4-IVVP-4050]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4051]
+
+
+Req Mother :[3383, 3384, 2535, 2536, 2538, 1072]
+
+Mapped ReqMother :[1073, 3383, 3384, 2535, 2536, 2538, 1072]
+
+Similar :[2536, 2535, 3384, 3383, 1072, 2538]
+
+Different :[1073]
+[MTS_OPSW_P4-IVVP-4052]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4053]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4054]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4055]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4056]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4057]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4058]
+	******PASS****
+[MTS_OPSW_P4-IVVP-4059]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5611]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5612]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5613]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5614]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5615]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5616]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5617]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5618]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5619]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5620]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5621]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5622]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5623]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5624]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5625]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5626]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5801]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5802]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5803]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5804]
+	******PASS****
+[MTS_OPSW_P4-IVVP-5848]
+	******PASS****
+
+
+**************REQ MOTHER***************
+
+
+Mapped :[SDD_OPSW-CI-2536, SDD_OPSW-CI-2535, SDD_OPSW-CI-2538, SDD_OPSW-CI-2537, SDD_OPSW-CI-3409, SDD_OPSW-CI-3408, SDD_OPSW-CI-1072, SDD_OPSW-CI-1073, SDD_OPSW-CI-3384, SDD_OPSW-CI-3383, SDD_OPSW-CI-3386, SDD_OPSW-CI-3385, SDD_OPSW-CI-3410]
+
+SDD :[SDD_OPSW-CI-1303, SDD_OPSW-CI-1314, SDD_OPSW-CI-1304, SDD_OPSW-CI-1315, SDD_OPSW-CI-1305, SDD_OPSW-CI-1316, SDD_OPSW-CI-1724, SDD_OPSW-CI-1306, SDD_OPSW-CI-1307, SDD_OPSW-CI-1725, SDD_OPSW-CI-1308, SDD_OPSW-CI-1309, SDD_OPSW-CI-1297, SDD_OPSW-CI-1298, SDD_OPSW-CI-1299, SDD_OPSW-CI-1310, SDD_OPSW-CI-1300, SDD_OPSW-CI-1311, SDD_OPSW-CI-1301, SDD_OPSW-CI-1312, SDD_OPSW-CI-1302, SDD_OPSW-CI-1313]
+
+Similar :[]
+
+Different :[SDD_OPSW-CI-1314, SDD_OPSW-CI-1315, SDD_OPSW-CI-1316, SDD_OPSW-CI-1072, SDD_OPSW-CI-1073, SDD_OPSW-CI-3410, SDD_OPSW-CI-1297, SDD_OPSW-CI-1298, SDD_OPSW-CI-1299, SDD_OPSW-CI-1310, SDD_OPSW-CI-1311, SDD_OPSW-CI-1312, SDD_OPSW-CI-1313, SDD_OPSW-CI-2536, SDD_OPSW-CI-1303, SDD_OPSW-CI-2535, SDD_OPSW-CI-1304, SDD_OPSW-CI-2538, SDD_OPSW-CI-1305, SDD_OPSW-CI-2537, SDD_OPSW-CI-1724, SDD_OPSW-CI-1306, SDD_OPSW-CI-3409, SDD_OPSW-CI-1307, SDD_OPSW-CI-1725, SDD_OPSW-CI-3408, SDD_OPSW-CI-1308, SDD_OPSW-CI-1309, SDD_OPSW-CI-3384, SDD_OPSW-CI-3383, SDD_OPSW-CI-3386, SDD_OPSW-CI-3385, SDD_OPSW-CI-1300, SDD_OPSW-CI-1301, SDD_OPSW-CI-1302]
+
+
+*********Behaviour Mapping***********
+SDD_OPSW-CI-2536
+	****PASS****
+SDD_OPSW-CI-2535
+	****PASS****
+SDD_OPSW-CI-2538
+	****PASS****
+SDD_OPSW-CI-2537
+	****PASS****
+SDD_OPSW-CI-3409
+	****PASS****
+SDD_OPSW-CI-3408
+	****PASS****
+SDD_OPSW-CI-1072
+Mapped :[<1.3>, <1.2>, <1.1>, <1.5>, <4>, <3>, <2>, <1>]
+
+SDD :[<1.3>, <1.2>, <1.1>, <1.5>, <4>, <1.4>, <3>, <2>, <1>]
+
+Similar :[<1.3>, <1.2>, <1.1>, <1.5>, <4>, <3>, <2>, <1>]
+
+Different :[<1.4>]
+SDD_OPSW-CI-1073
+Mapped :[<1.2>, <0.3>, <0.1>, <4>, <1.4>, <2>, <1.3.8>, <0>, <1.3.4>, <1.3.6>, <1.3.5.1>, <1.3.1>, <1.3.5.3>, <1.3>, <1.1>, <0.2>, <1.3.7>, <1>, <1.3.9>, <1.3.3>, <1.3.5>, <1.3.2>, <1.3.6.1>, <1.3.5.2>, <1.3.8.1>, <1.3.5.4>]
+
+SDD :[<0.3>, <1.2>, <0.1>, <1.4>, <2>, <1.3.8>, <0>, <1.3.4>, <1.3.6>, <1.3.5.1>, <1.3.1>, <1.3.5.3>, <1.3.7.1>, <1.3.5.5>, <1.3>, <0.2>, <1.1>, <1.3.7>, <1>, <1.3.9>, <1.3.3>, <1.3.5>, <1.3.2>, <1.3.5.2>, <1.3.6.1>, <1.3.7.2>, <1.3.8.1>, <1.3.5.4>]
+
+Similar :[<1.2>, <0.3>, <0.1>, <1.4>, <2>, <1.3.8>, <0>, <1.3.4>, <1.3.6>, <1.3.5.1>, <1.3.1>, <1.3.5.3>, <1.3>, <1.1>, <0.2>, <1.3.7>, <1>, <1.3.9>, <1.3.3>, <1.3.5>, <1.3.2>, <1.3.6.1>, <1.3.5.2>, <1.3.8.1>, <1.3.5.4>]
+
+Different :[<4>, <1.3.7.1>, <1.3.5.5>, <1.3.7.2>]
+SDD_OPSW-CI-3384
+	****PASS****
+SDD_OPSW-CI-3383
+Mapped :[<2.2>, <2.1>, <3.1>, <2.4>, <3.2>, <4>, <4.1>, <3>, <3.3>, <4.2>, <2.3>, <2>, <1>, <4.2.1.1>, <4.2.1.2>, <4.2.1.3>, <4.2.1>, <4.1.2>, <4.2.2>, <4.1.1><4.1.1.1>, <4.1.1>, <4.1.1.3>, <4.1.1.2>, <4.1.1.1>]
+
+SDD :[<2.2>, <2.1>, <3.1>, <2.4>, <3.2>, <4>, <4.1>, <2.3>, <3>, <3.3>, <4.2>, <2>, <1>, <4.2.1.1>, <4.2.1.2>, <4.2.1.3>, <4.1.2>, <4.2.1>, <4.2.2>, <4.1.1>, <4.1.1.3>, <4.1.1.2>, <4.1.1.1>]
+
+Similar :[<2.1>, <3.2>, <4>, <4.1>, <2.3>, <2>, <4.2.1.2>, <4.2.1>, <4.1.2>, <4.1.1>, <4.1.1.2>, <2.2>, <3.1>, <2.4>, <3>, <3.3>, <4.2>, <1>, <4.2.1.1>, <4.2.1.3>, <4.2.2>, <4.1.1.3>, <4.1.1.1>]
+
+Different :[<4.1.1><4.1.1.1>]
+SDD_OPSW-CI-3386
+	****PASS****
+SDD_OPSW-CI-3385
+	****PASS****
+SDD_OPSW-CI-3410
+	****PASS****
+

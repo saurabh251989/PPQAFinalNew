@@ -1,0 +1,23 @@
+1304;
+1305
+
+Test Objectives:
+This MTS verifies the following: 
+1) A range failure condition is set to TRUE when HMSwpltPos is outside of the range 275deg..355deg. (SDD_OPSW-CI-1304,SDD_OPSW-CI-1305)
+2) A range failure condition is set to FALSE when HMSwpltPos is within the range 275deg..355deg. (SDD_OPSW-CI-1304,SDD_OPSW-CI-1305)
+
+Template Used: Coupling Standard Test Procedure
+
+Coupling Table: Refer table "GRM_Monitor_HM_Swplt_Pos_Test"
+ 
+Input Stimulation: 
+Provide input for Parameter HMSwpltPosIdx= DML_HMSWPLTPOS in all the test cases
+
+Transfer Action: 
+CallOfFunction(GRM_Monitor_HM_Swplt_Pos(HMSwpltPosIdx , DataObject))
+
+Output verification: 
+The output DataObject ->RangeFail is verified by using standard output method "ValueReturned" as mentioned in below table.
+
+Note: conversion of values is done with 32768/360
+ 
